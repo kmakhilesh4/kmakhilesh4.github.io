@@ -1,7 +1,6 @@
 title: "Akhilesh K M"
 description: "AWS Cloud Engineer | Senior Software Engineer | Portfolio & Resume"
 remote_theme: "mmistakes/minimal-mistakes@v4.27.3"
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
