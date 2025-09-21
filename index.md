@@ -9,4 +9,5 @@ linkedin: https://www.linkedin.com/in/akhileshkm
 github: https://github.com/kmakhilesh4
 ---
 
-Experienced AWS Cloud Engineer and Senior Software Engineer with expertise in cloud architecture, automation, and AI development.
+Experienced AWS Cloud Engineer and Senior Software Engineer with expertise in cloud architecture, automation, and AI development.  
+Skilled in AWS services, cloud automation, backend development, and AI solutions deployment.

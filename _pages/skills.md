@@ -1,7 +1,7 @@
 ---
-layout: single
 title: "Skills"
 permalink: /skills/
+layout: single
 ---
 
 ### Cloud Platforms & Services

@@ -1,7 +1,7 @@
 ---
-layout: single
 title: "Education & Certificates"
 permalink: /education/
+layout: single
 ---
 
 #### Education
