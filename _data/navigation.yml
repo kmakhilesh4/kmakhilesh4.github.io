@@ -1,9 +1,0 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "Skills"
-    url: /skills/
-  - title: "Experience"
-    url: /experience/
-  - title: "Education"
-    url: /education/
